@@ -20,6 +20,7 @@ result  = sql_aat.exec( query, df )
 print( result.head( 10 ) )
 ```
 We are starting, and we want to run any SQL query on dataframes.
-:)
+
+:punch:
 
 Arturo.
